@@ -33,4 +33,4 @@ Access controls ensure that users can only perform actions relevant to their rol
 <img width="700" alt="Screenshot 2024-01-31 at 12 31 15" src="https://github.com/Henil61298/Student-Result-Management-System/assets/44196527/c4f91354-42f9-40f5-9905-93c92e6f8797">
 <img width="700" alt="Screenshot 2024-01-31 at 12 31 34" src="https://github.com/Henil61298/Student-Result-Management-System/assets/44196527/ef3b3205-134d-4462-a6c8-630943d56a4d">
 <img width="696" alt="Screenshot 2024-01-31 at 12 32 53" src="https://github.com/Henil61298/Student-Result-Management-System/assets/44196527/bf23803f-519e-4582-936a-3fa2952edaf1">
-<img width="696" alt="Screenshot 2024-01-31 at 12 34 21" src="https://github.com/Henil61298/Student-Result-Management-System/assets/44196527/a34c6663-e2d4-4d9e-8697-7d9cbd3accdc">
+
